@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94efd9ba-58a9-4b95-90e6-c50e4ac3a6aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p0bwmfzm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/Eat/eat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/Eat/eatMeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/Eat/eatVeggie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/Fly/NormalFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/Fly/fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/Fly/flyLikeJet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/Objects/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/Objects/MountainDuck.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2UB1z6vDbtEh9juTVThMZhKXl65" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "onboarding.tips.debug.path": "/Users/farukpala/IdeaProjects/DesignPatterns/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94efd9ba-58a9-4b95-90e6-c50e4ac3a6aa" name="Changes" comment="" />
+      <created>1692398418915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692398418915</updated>
+    </task>
+    <servers />
+  </component>
+</project>
