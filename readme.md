@@ -1,5 +1,5 @@
 # Tasarım Deseni Örnekleri
-![p0bwmfzm.jpg](p0bwmfzm.jpg)
+![p0bwmfzm.jpg](src/temp/p0bwmfzm.jpg)
 Kod kalitemi sistine şapeli seviyesine çıkarmak için oluşturduğum Design Pattern ile alakalı repository.
 ## Kullanım
 
@@ -24,7 +24,7 @@ Her tasarım deseni klasöründe, deseni anlatan bir açıklama, kod örnekleri 
 
 Aşağıda, projenin bazı tasarım desenleri örneklerine ait ekran görüntüleri bulunmaktadır:
 
-![indir.png](..%2F..%2FDesktop%2Findir.png)
+![indir.png](src%2Ftemp%2Findir.png)
 
 ## Katkıda Bulunma
 
