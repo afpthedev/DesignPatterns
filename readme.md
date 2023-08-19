@@ -1,6 +1,6 @@
 # Tasarım Deseni Örnekleri
-![p0bwmfzm.jpg](src/temp/p0bwmfzm.jpg)
-Kod kalitemi sistine şapeli seviyesine çıkarmak için oluşturduğum Design Pattern ile alakalı repository.
+
+Kod kalitemi Allahu Ekber Dağları  seviyesine çıkarmak için oluşturduğum Design Pattern ile alakalı repository.
 ## Kullanım
 
 Her bir tasarım deseni kendi klasöründe bulunmaktadır. İlgili tasarım deseni örneğine gitmek için aşağıdaki bağlantılara tıklayabilirsiniz:
