@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94efd9ba-58a9-4b95-90e6-c50e4ac3a6aa" name="Changes" comment="Strategy Pattern Added">
-      <change afterPath="$PROJECT_DIR$/src/Creational/Singleton/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/Objects/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/Objects/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/Objects/MountainDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Behavioral/Strategy/Objects/MountainDuck.java" afterDir="false" />
-    </list>
+    <list default="true" id="94efd9ba-58a9-4b95-90e6-c50e4ac3a6aa" name="Changes" comment="Singleton Pattern Added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,11 +90,20 @@
       <option name="project" value="LOCAL" />
       <updated>1692400483398</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Singleton Pattern Added">
+      <option name="closed" value="true" />
+      <created>1692488525583</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692488525583</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Strategy Pattern Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Strategy Pattern Added" />
+    <MESSAGE value="Singleton Pattern Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Singleton Pattern Added" />
   </component>
 </project>
