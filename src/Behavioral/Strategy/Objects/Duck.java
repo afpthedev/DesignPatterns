@@ -12,15 +12,16 @@ public class Duck {
         this.flySomeWhere = fly;
         this.eatSomeThing = eat;
     }
+
     // Fly method in use
-    public void performfly(){
+    public void performfly() {
         flySomeWhere.fly();
     }
+
     // eat method
-    public void eatPlease(){
+    public void eatPlease() {
         eatSomeThing.eatSomething();
     }
-
 
 
 }

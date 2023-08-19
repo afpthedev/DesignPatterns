@@ -17,13 +17,13 @@ public class Main {
 
         // Creating objects
         fly flyLikeJet = new flyLikeJet();
-        fly NormalFly =  new NormalFly();
+        fly NormalFly = new NormalFly();
 
-        eat eatMeat =  new eatMeat();
+        eat eatMeat = new eatMeat();
         eat eatVeggie = new eatVeggie();
 
 
-        Duck mountainDuck = new MountainDuck(flyLikeJet,eatVeggie);
+        Duck mountainDuck = new MountainDuck(flyLikeJet, eatVeggie);
 
 
         mountainDuck.eatPlease();
