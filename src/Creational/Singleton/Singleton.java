@@ -4,6 +4,7 @@ package Creational.Singleton;
 /*
 * For Medium : https://medium.com/p/4bc30b403c49
 * */
+
 class Singleton {
     private static Singleton createInstance;
 
