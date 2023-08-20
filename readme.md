@@ -1,8 +1,15 @@
 # Tasarım Deseni Örnekleri
 
 Kod kalitemi Allahu Ekber Dağları seviyesine çıkarmak için oluşturduğum Design Pattern ile alakalı repository.
-## Kullanım
 
+Yaratıcı desenler, esnekliği artıran ve mevcut kodun yeniden kullanımını sağlayan nesne oluşturma mekanizmaları sunar.
+
+Yapısal desenler, nesneleri ve sınıfları daha büyük yapılar içinde nasıl birleştireceğimizi açıklar ve bu yapıları esnek ve verimli tutmayı hedefler.
+
+Davranışsal desenler, nesneler arasındaki etkili iletişimi ve sorumluluk atanmasını ele alır.
+
+## Kullanım
+  
 Her bir tasarım deseni kendi klasöründe bulunmaktadır. İlgili tasarım deseni örneğine gitmek için aşağıdaki bağlantılara tıklayabilirsiniz:
 
 - [Fabrika Deseni](/fabrika-deseni)
