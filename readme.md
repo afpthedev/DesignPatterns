@@ -22,11 +22,12 @@ Her bir tasarım deseni kendi klasöründe bulunmaktadır. İlgili tasarım dese
 
 Her tasarım deseni klasöründe, deseni anlatan bir açıklama, kod örnekleri ve uygun bir şekilde adlandırılmış dosyalar bulunmaktadır.
 
-## Ekran Görüntüleri
+## Alakalı Medium Yazılarım
 
-Aşağıda, projenin bazı tasarım desenleri örneklerine ait ekran görüntüleri bulunmaktadır:
+- [Singleton Tasarım Deseni ve İki Farklı Yaklaşım
+  ](https://medium.com/@SadeceFaruk/singleton-tasar%C4%B1m-deseni-ve-i%CC%87ki-farkl%C4%B1-yakla%C5%9F%C4%B1m-4bc30b403c49)
 
-![indir.png](src%2Ftemp%2Findir.png)
+
 
 ## Katkıda Bulunma
 
