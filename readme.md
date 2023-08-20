@@ -26,6 +26,7 @@ Her tasarım deseni klasöründe, deseni anlatan bir açıklama, kod örnekleri 
 
 - [Singleton Tasarım Deseni ve İki Farklı Yaklaşım
   ](https://medium.com/@SadeceFaruk/singleton-tasar%C4%B1m-deseni-ve-i%CC%87ki-farkl%C4%B1-yakla%C5%9F%C4%B1m-4bc30b403c49)
+- [Understanding the Observer Design Pattern in Java](https://medium.com/@SadeceFaruk/understanding-the-observer-design-pattern-in-java-7339d0146481)
 
 
 
