@@ -32,7 +32,3 @@ Her tasarım deseni klasöründe, deseni anlatan bir açıklama, kod örnekleri 
 ## Katkıda Bulunma
 
 Eğer tasarım desenleri hakkında yeni örnekler eklemek veya mevcut örnekleri düzeltmek isterseniz, lütfen bir "pull request" (çekme isteği) göndermekten çekinmeyin. Katkılarınızı memnuniyetle karşılarız.
-
-## Lisans
-
-Bu proje açık kaynaklıdır ve [MIT Lisansı](/LICENCE) altında lisanslanmıştır.
