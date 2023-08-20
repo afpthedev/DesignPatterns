@@ -19,6 +19,7 @@ Her bir tasarım deseni kendi klasöründe bulunmaktadır. İlgili tasarım dese
 - [Örnek Deseni](/ornek-deseni)
 - [Strategy Deseni](https://github.com/afpthedev/DesignPatterns/blob/0aaa3bb1a1a84e917efa6db49b96dcdb11f1053b/src/Behavioral/Strategy)
 - [Singleton Deseni](https://github.com/afpthedev/DesignPatterns/blob/85fe0cc3f8a360c819d3a1a41e1027332c02cae3/src/Creational/Singleton)
+- [Observer Deseni](https://github.com/afpthedev/DesignPatterns/blob/5f7c7f8dc18e04589b23f8b0a1a88b50f4947710/src/Behavioral/Observer)
 
 Her tasarım deseni klasöründe, deseni anlatan bir açıklama, kod örnekleri ve uygun bir şekilde adlandırılmış dosyalar bulunmaktadır.
 
