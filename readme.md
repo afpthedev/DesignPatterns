@@ -12,18 +12,6 @@ Davranışsal desenler, nesneler arasındaki etkili iletişimi ve sorumluluk ata
   
 Her bir tasarım deseni kendi klasöründe bulunmaktadır. İlgili tasarım deseni örneğine gitmek için aşağıdaki bağlantılara tıklayabilirsiniz:
 
-- [Fabrika Deseni](/fabrika-deseni)
-- [Gözlemci Deseni](/gozlemci-deseni)
-- [Tek Sorumluluk Prensibi](/tek-sorumluluk-prensibi)
-- [Zincir Sorumluluk Deseni](/zincir-sorumluluk-deseni)
-- [Durum Deseni](/durum-deseni)
-- [Dekoratör Deseni](/dekorator-deseni)
-- [Fasade Deseni](/fasade-deseni)
-- [Ziyaretçi Deseni](/ziyaretci-deseni)
-- [Kompozit Deseni](/kompozit-deseni)
-- [Orta Nesne Deseni](/orta-nesne-deseni)
-- [Şablon Deseni](/sablon-deseni)
-- [Örnek Deseni](/ornek-deseni)
 - [Strategy Deseni](https://github.com/afpthedev/DesignPatterns/blob/0aaa3bb1a1a84e917efa6db49b96dcdb11f1053b/src/Behavioral/Strategy)
 - [Singleton Deseni](https://github.com/afpthedev/DesignPatterns/blob/85fe0cc3f8a360c819d3a1a41e1027332c02cae3/src/Creational/Singleton)
 - [Observer Deseni](https://github.com/afpthedev/DesignPatterns/blob/5f7c7f8dc18e04589b23f8b0a1a88b50f4947710/src/Behavioral/Observer)
