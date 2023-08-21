@@ -25,6 +25,9 @@ Her tasarım deseni klasöründe, deseni anlatan bir açıklama, kod örnekleri 
 - [Understanding the Observer Design Pattern in Java](https://medium.com/@SadeceFaruk/understanding-the-observer-design-pattern-in-java-7339d0146481)
 - [Singleton Design Pattern and Two Different Approaches
   ](https://medium.com/@SadeceFaruk/singleton-design-pattern-and-two-different-approaches-e65fb0bb00fa)
+- [Factory Design Pattern:Flexible Object Creation
+  ](https://medium.com/@SadeceFaruk/factory-design-pattern-flexible-object-creation-e135331b2ee7)
+
 
 
 
