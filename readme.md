@@ -17,6 +17,7 @@ Her bir tasarım deseni kendi klasöründe bulunmaktadır. İlgili tasarım dese
 - [Observer Deseni](https://github.com/afpthedev/DesignPatterns/blob/5f7c7f8dc18e04589b23f8b0a1a88b50f4947710/src/Behavioral/Observer)
 - [Factory Deseni](https://github.com/afpthedev/DesignPatterns/blob/5f7c7f8dc18e04589b23f8b0a1a88b50f4947710/src/Behavioral/Factory)
 - [Abstract Factory Deseni](https://github.com/afpthedev/DesignPatterns/blob/312f6ff867e4cbbe8502d11008b8309b5621197b/src/Creational/AbstactFactory)
+- [Adapter Factory Deseni](https://github.com/afpthedev/DesignPatterns/blob/c18bdb816d18a2ec603a21739400cc2da1d351ad/src/Structural/Adapter)
 
 Her tasarım deseni klasöründe, deseni anlatan bir açıklama, kod örnekleri ve uygun bir şekilde adlandırılmış dosyalar bulunmaktadır.
 
@@ -29,6 +30,9 @@ Her tasarım deseni klasöründe, deseni anlatan bir açıklama, kod örnekleri 
   ](https://medium.com/@SadeceFaruk/singleton-design-pattern-and-two-different-approaches-e65fb0bb00fa)
 - [Factory Design Pattern:Flexible Object Creation
   ](https://medium.com/@SadeceFaruk/factory-design-pattern-flexible-object-creation-e135331b2ee7)
+- [Making Different Interfaces Compatible with the Adapter Design Pattern
+  ](https://medium.com/@SadeceFaruk/making-different-interfaces-compatible-with-the-adapter-design-pattern-6f9a2bc34c70)
+
 
 
 
