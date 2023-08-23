@@ -17,7 +17,7 @@ Her bir tasarım deseni kendi klasöründe bulunmaktadır. İlgili tasarım dese
 - [Observer Deseni](https://github.com/afpthedev/DesignPatterns/blob/5f7c7f8dc18e04589b23f8b0a1a88b50f4947710/src/Behavioral/Observer)
 - [Factory Deseni](https://github.com/afpthedev/DesignPatterns/blob/5f7c7f8dc18e04589b23f8b0a1a88b50f4947710/src/Behavioral/Factory)
 - [Abstract Factory Deseni](https://github.com/afpthedev/DesignPatterns/blob/312f6ff867e4cbbe8502d11008b8309b5621197b/src/Creational/AbstactFactory)
-- [Adapter Factory Deseni](https://github.com/afpthedev/DesignPatterns/blob/c18bdb816d18a2ec603a21739400cc2da1d351ad/src/Structural/Adapter)
+- [Adapter Factory Deseni](https://github.com/afpthedev/DesignPatterns/blob/b6342dbf9e9d8d4f4065a76da5b8f8133477b5fc/src/Structural/Adapter)
 
 Her tasarım deseni klasöründe, deseni anlatan bir açıklama, kod örnekleri ve uygun bir şekilde adlandırılmış dosyalar bulunmaktadır.
 
