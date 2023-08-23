@@ -15,7 +15,7 @@ Her bir tasarım deseni kendi klasöründe bulunmaktadır. İlgili tasarım dese
 - [Strategy Deseni](https://github.com/afpthedev/DesignPatterns/blob/0aaa3bb1a1a84e917efa6db49b96dcdb11f1053b/src/Behavioral/Strategy)
 - [Singleton Deseni](https://github.com/afpthedev/DesignPatterns/blob/85fe0cc3f8a360c819d3a1a41e1027332c02cae3/src/Creational/Singleton)
 - [Observer Deseni](https://github.com/afpthedev/DesignPatterns/blob/5f7c7f8dc18e04589b23f8b0a1a88b50f4947710/src/Behavioral/Observer)
-- [Factory Deseni](https://github.com/afpthedev/DesignPatterns/blob/5f7c7f8dc18e04589b23f8b0a1a88b50f4947710/src/Behavioral/Factory)
+- [Factory Deseni](https://github.com/afpthedev/DesignPatterns/tree/b6342dbf9e9d8d4f4065a76da5b8f8133477b5fc/src/Creational/Factory)
 - [Abstract Factory Deseni](https://github.com/afpthedev/DesignPatterns/blob/312f6ff867e4cbbe8502d11008b8309b5621197b/src/Creational/AbstactFactory)
 - [Adapter Factory Deseni](https://github.com/afpthedev/DesignPatterns/blob/b6342dbf9e9d8d4f4065a76da5b8f8133477b5fc/src/Structural/Adapter)
 
