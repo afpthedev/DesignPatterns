@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94efd9ba-58a9-4b95-90e6-c50e4ac3a6aa" name="Changes" comment="Adapter Pattern Added / Medium Article Added">
-      <change afterPath="$PROJECT_DIR$/src/Structural/Bridge/Bridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Bridge/car/SEDAN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Bridge/car/SUV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Bridge/car/car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Bridge/carFactory/americanType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Bridge/carFactory/carFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Bridge/carFactory/englishType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="94efd9ba-58a9-4b95-90e6-c50e4ac3a6aa" name="Changes" comment="Bridge Pattern Added">
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Chain_Of_Responsibility/Logger/ErrorType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Chain_Of_Responsibility/Logger/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Chain_Of_Responsibility/Logger/consoleLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Chain_Of_Responsibility/Logger/errorLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Chain_Of_Responsibility/Logger/fileLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Behavioral/Chain_Of_Responsibility/chainOfResponsibility.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -72,6 +71,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Behavioral.Chain_Of_Responsibility.Logger" />
       <recent name="Structural.Bridge.Car" />
       <recent name="Structural.Adapter.Adapter" />
       <recent name="Structural.Adapter.USBC" />
@@ -223,7 +223,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692754235588</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Bridge Pattern Added">
+      <option name="closed" value="true" />
+      <created>1692935839626</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1692935839626</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Bridge Pattern Added">
+      <option name="closed" value="true" />
+      <created>1692935886339</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1692935886339</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -233,6 +249,7 @@
     <MESSAGE value="Observer  Pattern Medium Article Added" />
     <MESSAGE value="Factory/Abstract  Pattern Medium Article Added" />
     <MESSAGE value="Adapter Pattern Added / Medium Article Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adapter Pattern Added / Medium Article Added" />
+    <MESSAGE value="Bridge Pattern Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bridge Pattern Added" />
   </component>
 </project>
