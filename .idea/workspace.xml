@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94efd9ba-58a9-4b95-90e6-c50e4ac3a6aa" name="Changes" comment="Factory/Abstract  Pattern Medium Article Added">
-      <change afterPath="$PROJECT_DIR$/src/Structural/Adapter/Adapter/UsbAdaptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Adapter/Adapter/UsbcAdaptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Adapter/USB/Keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Adapter/USB/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Adapter/USB/Usb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Adapter/USBC/USBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Adapter/USBC/UsbcKeyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Adapter/USBC/UsbcMouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/Adapter/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/temp/img.png" afterDir="false" />
+    <list default="true" id="94efd9ba-58a9-4b95-90e6-c50e4ac3a6aa" name="Changes" comment="Adapter Pattern Added / Medium Article Added">
+      <change afterPath="$PROJECT_DIR$/src/Structural/Bridge/Bridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Structural/Bridge/car/SEDAN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Structural/Bridge/car/SUV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Structural/Bridge/car/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Structural/Bridge/carFactory/americanType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Structural/Bridge/carFactory/carFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Structural/Bridge/carFactory/englishType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +72,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Structural.Bridge.Car" />
       <recent name="Structural.Adapter.Adapter" />
       <recent name="Structural.Adapter.USBC" />
       <recent name="Structural.Adapter" />
@@ -209,7 +207,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692736029010</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Adapter Pattern Added / Medium Article Added">
+      <option name="closed" value="true" />
+      <created>1692754162714</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1692754162714</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Adapter Pattern Added / Medium Article Added">
+      <option name="closed" value="true" />
+      <created>1692754235588</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1692754235588</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -218,6 +232,7 @@
     <MESSAGE value="Singleton Pattern Medium Article Added" />
     <MESSAGE value="Observer  Pattern Medium Article Added" />
     <MESSAGE value="Factory/Abstract  Pattern Medium Article Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Factory/Abstract  Pattern Medium Article Added" />
+    <MESSAGE value="Adapter Pattern Added / Medium Article Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adapter Pattern Added / Medium Article Added" />
   </component>
 </project>

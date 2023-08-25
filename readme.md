@@ -18,6 +18,7 @@ Her bir tasarım deseni kendi klasöründe bulunmaktadır. İlgili tasarım dese
 - [Factory Deseni](https://github.com/afpthedev/DesignPatterns/tree/b6342dbf9e9d8d4f4065a76da5b8f8133477b5fc/src/Creational/Factory)
 - [Abstract Factory Deseni](https://github.com/afpthedev/DesignPatterns/blob/312f6ff867e4cbbe8502d11008b8309b5621197b/src/Creational/AbstactFactory)
 - [Adapter Factory Deseni](https://github.com/afpthedev/DesignPatterns/blob/b6342dbf9e9d8d4f4065a76da5b8f8133477b5fc/src/Structural/Adapter)
+- [Bridge  Deseni](https://github.com/afpthedev/DesignPatterns/blob/b6342dbf9e9d8d4f4065a76da5b8f8133477b5fc/src/Structural/Bridge)
 
 Her tasarım deseni klasöründe, deseni anlatan bir açıklama, kod örnekleri ve uygun bir şekilde adlandırılmış dosyalar bulunmaktadır.
 
