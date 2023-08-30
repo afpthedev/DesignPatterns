@@ -20,6 +20,7 @@ Her bir tasarım deseni kendi klasöründe bulunmaktadır. İlgili tasarım dese
 - [Adapter Factory Deseni](https://github.com/afpthedev/DesignPatterns/blob/b6342dbf9e9d8d4f4065a76da5b8f8133477b5fc/src/Structural/Adapter)
 - [Bridge  Deseni](https://github.com/afpthedev/DesignPatterns/blob/dd23cf24a393a339a8963c44e1c1f654748483e7/src/Structural/Bridge)
 - [Chain Of Responsibility  Deseni](https://github.com/afpthedev/DesignPatterns/blob/6937f75e3ff326023cd558e48259fb9d8137ffe8/src/Behavioral/Chain_Of_Responsibility)
+- [Mediator  Deseni](https://github.com/afpthedev/DesignPatterns/blob/e756589ff020b914e0db17ec8e26482932ebed50/src/Behavioral/Mediator)
 
 Her tasarım deseni klasöründe, deseni anlatan bir açıklama, kod örnekleri ve uygun bir şekilde adlandırılmış dosyalar bulunmaktadır.
 
