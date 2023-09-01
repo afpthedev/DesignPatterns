@@ -1,0 +1,19 @@
+Avantajlar:
+
+Esneklik ve Genişletilebilirlik: Command deseni, yeni komutlar eklemeyi kolaylaştırır. Yeni bir işlem eklemek istediğinizde sadece yeni bir komut sınıfı oluşturmanız yeterlidir. Bu, sistemi genişletilebilir hale getirir.
+
+Bağlantısızlık (Decoupling): Komutlar ve alıcılar (işlemi gerçekleştiren nesneler) arasında gevşek bir bağlantı sağlanır. İstemci, hangi komutun hangi alıcıya yönlendirileceğini bilmek zorunda değildir. Bu, bileşenlerin bağımsız olarak geliştirilmesine ve değiştirilmesine olanak tanır.
+
+Geri Alma (Undo) ve Yineleme (Redo) İşlevselliği: Command deseni, geri alma ve yineleme işlevselliğini desteklemek için kullanılabilir. Her komut nesnesi, ilgili işlemi geri almak veya tekrarlamak için gereken bilgiyi içerebilir.
+
+Komut Zinciri (Command Chain) Oluşturma: Birden fazla komutun zincir halinde çalışması gerektiği durumlarda kullanışlıdır. Bir komutun çıktısı bir sonraki komutun girdisi olabilir.
+
+Dezavantajlar:
+
+Artan Sınıf Sayısı: Her farklı komut için ayrı bir komut sınıfı oluşturmanız gerekebilir. Bu durum, projenin karmaşıklığını artırabilir ve gereksiz sınıf patlamasına yol açabilir.
+
+Küçük Ölçekli Projelerde Aşırı Karmaşıklık: Basit projelerde Command desenini kullanmak gereksiz karmaşıklığa neden olabilir. Bu deseni gereksiz yere kullanmak, kodun anlaşılmasını zorlaştırabilir.
+
+Performans İnce Ayarı: Komutlar arasında geçiş yapmak, performans açısından küçük bir maliyetle gelebilir. Bu durum, özellikle uygulamanın yüksek performans gerektirdiği durumlarda göz önünde bulundurulmalıdır.
+
+Özetle, Command tasarım deseni genellikle bir projenin büyüklüğüne ve karmaşıklığına bağlı olarak kullanılmalıdır. Büyük ve genişletilebilir projelerde avantajları daha fazla görülürken, küçük projelerde gereksiz karmaşıklığa yol açabileceği unutulmamalıdır. Her durumda, tasarım desenlerinin kullanımında dikkatli bir değerlendirme yapmak önemlidir.

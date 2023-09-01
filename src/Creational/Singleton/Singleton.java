@@ -23,7 +23,6 @@ class Singleton {
      * In a multithreaded project, if we intend to use the Singleton pattern, we need to ensure that different threads do not create separate instances of the Singleton class simultaneously. One way to achieve this is by using synchronization.
      * Example method: createThreadSafeSingleton
      */
-
     public static Singleton createThreadSafeSingleton() {
         synchronized (Singleton.class) {
             if (createInstance == null) {
